@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-prueba de como crear un preositorio y clonarlo desde github a mi compu.
+prueba de como crear un preositorio y clonarlo desde github a mi compu. agus 
